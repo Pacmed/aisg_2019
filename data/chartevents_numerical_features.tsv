@@ -1,0 +1,15 @@
+ITEMID	NAME
+211	heartrate
+646	saturation_o2
+618	resp_rate
+220045	heartrate
+220210	resp_rate
+220277	saturation_o2
+51	arterial_bp_sys
+8368	arterial_bp_dia
+455	ni_bp_sys
+8441	ni_bp_dia
+220179	ni_bp_sys
+220180	ni_bp_dia
+220050	arterial_bp_sys
+220051	arterial_bp_dia
